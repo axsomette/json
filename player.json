@@ -1,11 +1,16 @@
-{
-   "type":"Joueur tryhard",
-   "nom":"Jimenez-Boulot",
-   "prenom":"Lucas",
-   "exp":"3000 d'xp",
-   "url":"https://psn-rsc.prod.dl.playstation.net/psn-rsc/avatar/EP9000/CUSA10249_00-AV00000000000015_E6F4590D887C2ED6557A_m.png"
-    
-
-
-}
-
+[
+    {
+       "type":"Joueur tryhard",
+       "nom":"Jimenez-Boulot",
+       "prenom":"Lucas",
+       "exp":"3000 d'xp",
+       "url":"https://psn-rsc.prod.dl.playstation.net/psn-rsc/avatar/EP9000/CUSA10249_00-AV00000000000015_E6F4590D887C2ED6557A_m.png"
+    },
+    {
+       "type":"Joueur null",
+       "nom":"Hax",
+       "prenom":"Haxor",
+       "exp":"2 d'xp",
+       "url":"https://psn-rsc.prod.dl.playstation.net/psn-rsc/avatar/EP9000/CUSA12605_00-AV00000000000005_F12B0D2FA67E1C4C1959_m.png"
+    }
+ ]

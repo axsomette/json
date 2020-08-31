@@ -1,3 +1,8 @@
+<?php
+require('bdd.php')
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,7 +19,7 @@
 
 <h1> get my JSON </h1>
 <button id="lol" type="button" onclick="Json()">afficher les joueurs</button>
-<br> <div id="don"></div>
+<br> <button id="don"></button> <button id="don2"></button>
 
     
 
